@@ -467,7 +467,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     display: block;
     width: 100%;
     height: 100%;
-    background: color(var(--lightgrey) l(+10%));
+    background: color(var(--whitegrey) l(+10%));
     border-radius: 100%;
 
     object-fit: cover;
@@ -1931,7 +1931,7 @@ Usage (In Ghost editor):
     margin: 0 0 20px 0;
     width: 100px;
     height: 100px;
-    box-shadow: rgba(255,255,255,0.1) 0 0 0 6px;
+    box-shadow: rgba(255,255,255,0.1) 0 0 0 4px;
 }
 
 .site-header-content .author-bio {
